@@ -7,7 +7,7 @@ The purpose of the edits is to expand on the material without changing the conce
 **Setup**
 
 ```sh
-git clone https://github.com/gcanti/functional-programming.git
+git clone https://github.com/enricopolanski/functional-programming.git
 cd functional-programming
 npm i
 ```
